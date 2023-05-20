@@ -1,1 +1,1 @@
-# Quest-Core-SDK
+# Viz-Core-SDK
