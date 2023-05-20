@@ -1,0 +1,25 @@
+{
+  "name": "quest-core-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:viz404/test-npm-package.git"
+  },
+  "homepage": "git@github.com:viz404/test-npm-package.git#readme"
+}
