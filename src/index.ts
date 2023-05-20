@@ -1,7 +1,7 @@
 import Meta from "./Meta";
 import { sdkConfig } from "./types/common";
 
-export default class QuestSDK {
+export class QuestSDK {
   meta: Meta;
 
   constructor(config: sdkConfig) {
